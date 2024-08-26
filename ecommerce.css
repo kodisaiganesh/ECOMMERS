@@ -1,0 +1,120 @@
+*{
+  margin: 0%;
+  box-sizing: border-box;
+  /* border: 1px solid black; */
+  }
+  .navbar-brand{
+      width: 10%;
+  }
+  .navbar{
+      background-color: #e594a1;
+  }
+  .nav-link{
+      color: white;
+      font-weight: bold;
+      font-size: 20px;
+  }
+  .nav-link:hover{
+      border: 1px solid green;
+      color: green;
+  } 
+  /* home */
+  .bgimg{
+      background-image: url('https://img.freepik.com/free-photo/supermarket-banner-with-food_23-2149500984.jpg?t=st=1723913096~exp=1723916696~hmac=80335fec0b51bde2df9c12b842be00a325f6c21112b3ad2155a732a7a5042260&w=1380');
+      width: 100vw;
+      height: 70vh;
+      background-position: center;
+      background-size: cover;
+  }
+  .hhead h1{
+      font-size: 40px;
+      color: white;
+      text-shadow: 2px 2px 2px black;
+  }
+  .hhead .btn{
+      font-size: 23px;
+      font-weight: 700;
+  }
+  /* about */
+  
+  .two {
+    border: gold solid 2px;
+  }
+  .two h5{
+      color: #ffc107;
+  
+  }
+  .two h2{
+      color: green;
+  }
+  .two p{
+      color: #f50057;
+  }
+  .carousel-item img{
+      width: 100%;
+      aspect-ratio: 3/2;
+  }
+  /* products */
+  .products{
+      margin: 0.2%;
+  }
+  /* payment */
+  .input-group-text{
+      background-color: #f50057;
+      color: white;
+      font-weight: 600;
+      border: none;
+      border-radius: 15px;
+  }
+  .pbtn{
+      font-size: 20px;
+      width: 25%;
+      font-weight: bold;
+  
+  }
+  /* contACT */
+  #forms{
+      width:100%;
+      display: flex;
+      flex-direction: column;
+      }
+      #forms input{
+          margin-bottom: 2%;
+          border: 0.4px solid grey;
+          padding: 1%;
+      }
+      textarea{
+          margin-bottom: 3%;
+      }
+      .cbtn{
+          font-size: 20px;
+      }
+      .footer{
+          background-color: #f50057;
+      }
+      .hfoot{
+       color: white;
+       text-decoration: 3px underline gold;
+       margin-bottom: 2% ;
+      }
+      .links{
+          color: white;
+         font-size: 16px;
+      }
+      .media i{
+          color: white;
+          font-size: 30px;
+          padding: 1%;
+  
+      }
+      .media i:hover{
+          color: skyblue;
+      }
+    
+    
+    
+    
+    
+    
+    
+    
